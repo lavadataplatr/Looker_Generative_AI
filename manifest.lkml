@@ -1,6 +1,6 @@
-project_name: "looker-gen-ai"
+project_name: "looker_genai"
 
-application: looker-gen-ai {
+application: looker_genai {
   label: "Looker GenAI Extension"
   # for development: url: "https://localhost:8080/bundle.js"
   # production
